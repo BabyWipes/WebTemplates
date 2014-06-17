@@ -9,9 +9,9 @@ Anyone can come and use these templates, but just a few things I would like you 
 - Provide a link to this repository in the template.
 - Follow me on Github? (LOL)
 
-You dont NEED to do those things but it would be nice if you do so. Thanks :)
+You dont NEED to do those things but it would be nice if you do so. Thank you.
 
-      ~ JaskiratBoparai
+Jaskirat Boparai
 
 
 
