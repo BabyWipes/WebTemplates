@@ -1,0 +1,11 @@
+.t3, .t3r, .t4, .t5 strong, .t6 {
+	color: #5BA9FF;
+}
+.menu a:hover{
+	text-decoration: none;
+	color: #5BA9FF;
+	border-top: 3px solid #5BA9FF;
+}
+.menulogo {
+	color: #5BA9FF;
+}

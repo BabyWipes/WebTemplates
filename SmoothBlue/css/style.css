@@ -1,0 +1,129 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:300,400,700);
+
+body {
+	margin: 0 auto;
+	background-image: url(assets/texture.png);
+}
+.top {
+	background-image: url(assets/bg.png);
+	height: 300px;
+	border-bottom: 0px solid #555555;
+	position: relative;
+	width: 100%;
+}
+.menu {
+	height: 60px;
+	background-color: #FFF;
+	box-shadow: 0px 0px 10px #999999;
+	border-bottom: 0px solid #666666;
+	text-align: right;
+	font-family: 'Scada', sans-serif;
+	padding-top: 40px;
+	font-size: 18px;
+	word-spacing: 5px;
+	position: relative fixed;
+	width: 100%;
+	color: #333333;
+	text-shadow: 0px 1px 3px #CCCCCC;
+}
+.menu a{
+	text-decoration: none;
+	color: #333333;
+  	transition: border-top, color, .25s ease-in-out;
+   -moz-transition: border-top, color, .25s ease-in-out;
+   -webkit-transition: border-top, color, .25s ease-in-out;
+   padding-top: 5px;
+}
+.menulogo {
+	float: left;
+	word-spacing: normal;
+	font-size: 35px;
+	margin-top: -20px;
+	text-shadow: 0px -1px 1px #333333;
+	font-family: 'Monda', sans-serif;
+}
+.main {
+	text-align: left;
+	padding-top: 50px;
+}
+.content {
+	width: 1000px;
+	margin: 0 auto;
+}
+.footer {
+	font-family: 'Scada', sans-serif;
+	clear: both;
+	margin-top: 20px;
+	border-top: 1px solid #999999;
+	padding-top: 5px;
+	font-size: 14px;
+	color: #666666;
+	text-align: center;
+	margin-bottom: 40px;	
+}
+
+/* Table Stuff */
+
+table {
+	table-layout:fixed;
+	border-collapse:collapse;
+	width: 960px;
+}
+	
+
+thead {
+	background-color: #999;
+	color:#000;
+}
+
+td {
+	width: 20%;
+	padding-left: 10px;
+}
+
+/* Download button */
+
+.input {
+    display: inline-block;
+    margin: 0 0.2em;
+    padding: 3px;
+    background: #97CAF2;
+    border-radius: 2px;
+
+    -webkit-transition: all 0.3s ease-out;
+    -moz-transition: all 0.3s ease-out;
+    -o-transition: all 0.3s ease-out;
+    -ms-transition: all 0.3s ease-out;
+    transition: all 0.3s ease-out; 
+
+    /* Font styles */
+     white-space: pre-wrap;
+    font-family: "Lato", Calibri, Arial, sans-serif;
+    color: #ffffff;
+    font-weight: 700;
+    text-shadow: 0 1px 0 rgba(255,255,255,0.8);
+    font-size: 14px;
+    line-height: 22px;
+	border: inherit;
+}
+
+.input:hover {
+    background: #53A7EA
+}
+
+.input:active {
+    background: #C4E1F8
+}
+
+.input:visited {
+    background: #F2BF97
+}
+
+
+	
+	
+
+
+
+
+
