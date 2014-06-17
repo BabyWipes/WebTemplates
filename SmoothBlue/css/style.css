@@ -4,6 +4,9 @@ body {
 	margin: 0 auto;
 	background-image: url(assets/texture.png);
 }
+
+/* Menu Bar and Logo */
+
 .top {
 	background-image: url(assets/bg.png);
 	height: 300px;
@@ -42,6 +45,9 @@ body {
 	text-shadow: 0px -1px 1px #333333;
 	font-family: 'Monda', sans-serif;
 }
+
+/* Body elements */
+
 .main {
 	text-align: left;
 	padding-top: 50px;
@@ -50,6 +56,9 @@ body {
 	width: 1000px;
 	margin: 0 auto;
 }
+
+/* footer */
+
 .footer {
 	font-family: 'Scada', sans-serif;
 	clear: both;
